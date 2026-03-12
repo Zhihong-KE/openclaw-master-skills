@@ -2,6 +2,101 @@
 
 每次更新的详细发布说明。
 
+## v0.4.0 — 2026-03-11
+
+### 🚀 大规模扩充 — 339+ Skills（新增 175 个）
+
+**Total skills: 339+** (+175 from v0.3.0)
+
+来源：ClawHub trending/downloads/installs 排行榜精选
+
+#### 🤖 AI & LLM Tools (新增 ~20)
+- `deep-research-pro` — AI 深度研究，多轮推理与综合
+- `agent-browser` — Rust 高速无头浏览器自动化 CLI
+- `computer-use` — 桌面级自动化（鼠标/键盘/屏幕控制）
+- `nano-banana-pro` — Gemini 3 Pro 图像生成与编辑
+- `perplexity` — AI 驱动搜索引擎 API
+- `humanizer` / `humanize-ai-text` / `ai-humanizer` — AI 文本去痕工具
+- `openai-image-gen` — OpenAI 批量图像生成
+- `edge-tts` — 微软 Edge TTS 语音合成
+- `gemini` — Gemini CLI 问答/摘要/生成
+- `summarize` — URL/文件/音频/视频摘要 CLI
+
+#### 🔍 Search & Web (新增 ~15)
+- `brave-search` — Brave 搜索 API
+- `tavily` — AI 优化搜索
+- `multi-search-engine` — 17 引擎聚合搜索（8 国内 + 9 国际）
+- `baidu-search` — 百度 AI 搜索
+- `duckduckgo-search` — DuckDuckGo 隐私搜索
+- `firecrawl-search` — Firecrawl 网页抓取搜索
+- `searxng` — SearXNG 隐私元搜索
+- `qmd` — 本地 BM25 + 向量 + 重排序搜索
+
+#### 📋 Productivity & Office (新增 ~20)
+- `notion` — Notion API 完整集成
+- `obsidian` — Obsidian 笔记管理
+- `trello` — Trello 看板管理
+- `linear` — Linear 项目管理
+- `todoist` — Todoist 任务管理
+- `nano-pdf` — 自然语言 PDF 编辑
+- `1password` — 1Password CLI
+- `word-docx` / `excel-xlsx` / `microsoft-excel` — Office 文档读写
+- `google-calendar` / `caldav-calendar` / `gcalcli-calendar` — 日历管理
+- `apple-notes` / `apple-reminders` / `bear-notes` / `things-mac` — Apple 生态
+
+#### 💻 Development & DevOps (新增 ~30)
+- `github` — GitHub CLI 完整集成（issue/PR/workflow）
+- `docker-essentials` — Docker 容器管理
+- `n8n` / `n8n-workflow-automation` — 工作流自动化
+- `playwright` / `playwright-mcp` — 浏览器自动化
+- `git` / `git-essentials` — Git 工作流
+- `sql-toolkit` — SQL 数据库工具
+- `code` / `coding` / `code-review` — 编码辅助
+- `debug-pro` — 专业调试工具
+
+#### 💰 Finance & Trading (新增 6)
+- `stock-analysis` — 股票/加密分析（Yahoo Finance）
+- `stock-market-pro` — 专业股市分析套件
+- `us-stock-analysis` — 美股深度分析
+- `tushare-finance` — 中国金融数据（220+ 接口）
+- `yahoo-finance` — 美股数据
+- `stock-watcher` — 股票监控列表
+
+#### 💬 Communication (新增 ~10)
+- `slack` / `discord` / `telegram` — 主流通讯平台
+- `gmail` / `outlook` / `imap-smtp-email` — 邮件管理
+- `himalaya` — IMAP/SMTP 邮件 CLI
+- `feishu-doc` / `feishu-evolver-wrapper` — 飞书集成
+- `imsg` / `bluebubbles` — iMessage
+
+#### 🏠 Smart Home & IoT (新增 ~8)
+- `home-assistant` — Home Assistant 深度集成
+- `sonoscli` — Sonos 音箱控制
+- `desktop-control` — 桌面自动化
+- `openhue` — Philips Hue 灯光控制
+- `spotify-player` — Spotify 播放控制
+- `camsnap` — RTSP/ONVIF 摄像头截图
+- `eightctl` — Eight Sleep 智能床垫
+
+#### 🧠 Memory & Agent (新增 ~15)
+- `proactive-agent` — 主动式 Agent 引擎
+- `self-improving` — Agent 自我改进
+- `auto-updater` — 自动更新
+- `skill-vetter` — 技能安全审查
+- `find-skills` — 技能发现
+- `clawddocs` — 文档专家
+- `agent-autonomy-kit` — Agent 自治套件
+- `agent-team-orchestration` — 多 Agent 协作
+
+#### 📱 Social & Content (新增 ~10)
+- `x-twitter` — Twitter/X 完整操作
+- `xiaohongshu-mcp` — 小红书自动化
+- `reddit` / `reddit-readonly` — Reddit
+- `linkedin` — LinkedIn 集成
+- `news-summary` — 新闻摘要
+
+---
+
 ---
 
 ## v0.3.0 — 2026-03-09
